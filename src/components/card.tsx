@@ -1,13 +1,10 @@
 import React from 'react';
 
-
-
-
 const coloumnSizes = {
     height: "300px",
     padding: "30px",
     margin:"50px",
-    margin_left :"40px",
+   
 }
 
 const sampleCard = (props:any) => {
