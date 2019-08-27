@@ -9,6 +9,7 @@
     "@types/react-dom": "16.9.0",
     "@types/react-router-dom": "^4.3.4",
     "bulma": "^0.7.5",
+    "bulma-styled-components": "^1.0.2",
     "react": "^16.9.0",
     "react-bulma-components": "^2.3.0",
     "react-dom": "^16.9.0",

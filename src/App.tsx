@@ -2,7 +2,7 @@ import React from 'react';
 import CardComponent from './components/card';
 import InputComponent from './components/input';
 import ElementButton from './components/button';
-
+import FooterElement from './components/footer';
 import RouterComponent from './components/router';
 
 
@@ -69,6 +69,10 @@ const EntireReusable=() => {
     <hr / >
     
     <RouterComponent/>
+    <FooterElement footerName={"footer"} >
+     
+     </FooterElement>
+   
     </div>
      
   )
